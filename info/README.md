@@ -1,4 +1,4 @@
-# Let's Play: Ancient Greek Punishment: Limited Edition
+# *Let's Play: Ancient Greek Punishment: Limited Edition*
 
 ![](images/limited-edition-banner.png)
 
