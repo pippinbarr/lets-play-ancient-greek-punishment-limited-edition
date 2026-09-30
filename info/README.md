@@ -11,7 +11,7 @@ _Let&#8217;s Play: Ancient Greek Punishment: Limited Edition!_ was written in J
 
 ## Documentation
 * Read the [Process Documentation](../process)
-* Look at the [Code Repository](https://github.com/pippinbarr/lets-play-ancient-greek-punishment) for source code etc.
+* Look at the [Code Repository](https://github.com/pippinbarr/lets-play-ancient-greek-punishment-limited-edition) for source code etc.
 
 ## Press
 Read the [Press Kit](../press) for press information
